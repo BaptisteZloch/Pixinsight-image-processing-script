@@ -16,7 +16,7 @@
 Un script qui permet de faire tous les types de masques en automatique.< br />\
 <br />\
 Copyright & copy; 2020 Baptiste ZLOCH
-#feature - icon  ZTA.xpm
+#feature - icon  ZTA.svg
 //define des textes
 #define VERSION "1.2"
 #define TITLE "Constructeur de masques v" + VERSION
