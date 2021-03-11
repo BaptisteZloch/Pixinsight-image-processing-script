@@ -15,7 +15,7 @@ Un script qui permet d'effectuer tous les mixages SHO, HOO,... en automatique. I
    Ce script necessite au moins 2 images monochrome.<br/>\
    <br/>\
    Copyright &copy; 2020 Baptiste ZLOCH
-   #feature-icon  ZTA.xpm
+   #feature-icon  ZTA.svg
 //definition des textes
 #define VERSION "1.0"
 #define TITLE "<p><b>Mixages PixelMath v" + VERSION +"</b> &mdash; Permet d'effectuer différents mixages en automatique.</p>"
