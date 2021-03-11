@@ -15,7 +15,7 @@ A script that automaticly performs the blendings you choose. There is also optio
    This script needs a least 2 b&w images.<br/>\
    <br/>\
    Copyright &copy; 2020 Baptiste ZLOCH
-   #feature-icon  ZTA.xpm
+   #feature-icon  ZTA.svg
 //definition des textes
 #define VERSION "1.0"
 #define TITLE "<p><b>PixelMath blendings v" + VERSION +"</b> &mdash; A script that automaticly performs the blendings you choose.</p>"
