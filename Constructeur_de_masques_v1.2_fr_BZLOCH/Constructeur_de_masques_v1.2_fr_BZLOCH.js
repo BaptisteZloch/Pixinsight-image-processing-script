@@ -1,14 +1,14 @@
 //script de Baptiste ZLOCH
 
 //bibliothèques
-#include < pjsr / Sizer.jsh >
-#include < pjsr / NumericControl.jsh >
-#include < pjsr / FrameStyle.jsh >
-#include < pjsr / SectionBar.jsh >
-#include < pjsr / ColorSpace.jsh >
-#include < pjsr / UndoFlag.jsh >
-#include < pjsr / StdButton.jsh >
-#include < pjsr / StdIcon.jsh >
+#include <pjsr/Sizer.jsh >
+#include <pjsr/NumericControl.jsh >
+#include <pjsr/FrameStyle.jsh >
+#include <pjsr/SectionBar.jsh >
+#include <pjsr/ColorSpace.jsh>
+#include <pjsr/UndoFlag.jsh>
+#include <pjsr/StdButton.jsh>
+#include <pjsr/StdIcon.jsh>
 //infos
 #feature - id    Utilities > Constructeur de masques
 #feature - info  Un script de création de masques en automatique.< br />\
@@ -18,7 +18,7 @@ Un script qui permet de faire tous les types de masques en automatique.< br />\
 Copyright & copy; 2020 Baptiste ZLOCH
 #feature - icon  ZTA.svg
 //define des textes
-#define VERSION "1.2"
+#define VERSION "1.3"
 #define TITLE "Constructeur de masques v" + VERSION
 #define textBox  "<p><b>" + TITLE + "</b> &mdash; Un script qui permet de faire tous les types de masques en automatique.</p> <p>Copyright &copy; 2020 Baptiste ZLOCH. All rights reserved. <b><a href=\"www.zlochteamastro.com\">www.zlochteamastro.com</a></b></p>"
 
